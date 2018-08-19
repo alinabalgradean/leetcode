@@ -5,6 +5,7 @@ Example 1:
 
 Input: "hello"
 Output: "olleh"
+
 Example 2:
 
 Input: "A man, a plan, a canal: Panama"
